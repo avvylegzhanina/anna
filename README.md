@@ -16,3 +16,4 @@ https://vk.com/id55625548
 | Выравнивание | Выравнивание | Выравнивание |
 | влево        | по центру    | вправо       |
 [image1]: //placehold.it/250x100
+anna/Chrysanthemum.jpg
