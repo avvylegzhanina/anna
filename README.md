@@ -17,3 +17,4 @@ https://vk.com/id55625548
 | влево        | по центру    | вправо       |
 [image1]: //placehold.it/250x100
 anna/Chrysanthemum.jpg
+![](http://komuchto.es/wp-content/uploads/2017/10/obuchenie-igre-na-gitare.jpg)
